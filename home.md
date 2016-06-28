@@ -1,6 +1,8 @@
 ---
 layout: page
-title: <a href="/" title="Back to the Home page"><b>Home</b></a> 
+title: <FORM>
+<INPUT Type="BUTTON" Value="Home Page" Onclick="window.location.href='http://www.computerhope.com/'"> 
+</FORM>
 permalink: /home.md/
 ---
 
