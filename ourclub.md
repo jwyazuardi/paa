@@ -4,7 +4,12 @@ title: Our Club
 permalink: /ourclub/
 ---
 
-State: Active
+Status: Active
+School: Changkat Changi Secondary School (Official)
+Training Day and Time: Every Wednesday,3 P.M-5.P.M
+Head of this Website: Joseph Yazuardi
+Head of this club: Mr Leo
+Head of the Whatsapp Group: Bryan Iskandar
 
 **Members**
 <ul>
@@ -21,5 +26,6 @@ State: Active
 <li>Su Mon</li>
 <li>Jasra</li>
 </ul>
+
 
 
